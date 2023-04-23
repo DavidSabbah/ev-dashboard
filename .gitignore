@@ -67,3 +67,5 @@ Thumbs.db
 # MTA
 *.mta
 mta_archives/
+/.vs/slnx.sqlite
+/.vs
